@@ -9,9 +9,6 @@ Based strictly on Spaceship's official documentation:
 - API reference (OpenAPI): https://docs.spaceship.dev/
 - Authentication / API Manager: https://www.spaceship.com/application/api-manager/
 
-And verified against FOSSBilling's real contract:
-- `Registrar_AdapterAbstract`: https://github.com/FOSSBilling/FOSSBilling/blob/main/src/library/Registrar/AdapterAbstract.php
-
 ## How it works
 
 1. FOSSBilling calls the adapter with a `Registrar_Domain` object (never a
