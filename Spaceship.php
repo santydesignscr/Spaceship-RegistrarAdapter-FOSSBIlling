@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 /**
  * Registrar adapter for Spaceship (spaceship.com), for FOSSBilling.
  *
